@@ -1,4 +1,4 @@
-package com.scb.demo.demo;
+package com.scb.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
